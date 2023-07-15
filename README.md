@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Austine Okoth</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="right" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Coding For Life" />
+<img align="right" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Coding For Life" />
 
 - 🔭 I’m currently working on **a platform to support creatives**
 
