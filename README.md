@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://pdfhost.io/v/6tJ23PaKF_AUSTINE_OKOTH_CV](https://pdfhost.io/v/6tJ23PaKF_AUSTINE_OKOTH_CV)
 
-- ⚡ Fun fact **You can have the whole world, but if you lose me its still gonna be a misfortune**
+- ⚡ Fun fact **You can have the whole world, but if you lose me its still gonna be a misfortune** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
