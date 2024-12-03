@@ -2,13 +2,16 @@
 <h3 align="center">A passionate fullstack developer</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Coding For Life" />
 
-<h3> My SITES</h3>
+<ol>
+<h4>My Sites</h4>
 
-- Developer of OMOCA platform. <a href="omoca.co.ke"> OMOCA </a>
+<li> - Developer of OMOCA platform. <a href="https://omoca.co.ke"> OMOCA </a> </li>
 
-- Developer of KUMEDICS platform <a href="kumedics.co.ke"> KUMEDICS </a>
+<li> - Developer of KUMEDICS platform <a href="https://kumedics.co.ke"> KUMEDICS </a> </li>
 
-- 🔭 I’m currently working on **a platform to support creatives**
+</ol>
+
+- 🔭 I’m currently working on **a platform to support creatives** (OMOCA)
 
 - 🌱 I’m currently learning **Cybersecurity (Both Blue and Red Team)**
 
