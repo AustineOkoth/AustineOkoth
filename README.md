@@ -2,6 +2,9 @@
 <h3 align="center">A passionate fullstack developer</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Coding For Life" />
 
+- Developer of OMOCA platform. @ omoca.co.ke
+- Deveoper of KUMEDICS platform @kumedics.co.ke**
+
 - 🔭 I’m currently working on **a platform to support creatives**
 
 - 🌱 I’m currently learning **Cybersecurity (Both Blue and Red Team)**
