@@ -5,9 +5,9 @@
 <ol>
 <h4>My Sites</h4>
 
-<li> - Developer of OMOCA platform. <a href="https://omoca.co.ke"> OMOCA </a> </li>
+<li> - Developer of OMOCA platform. <a href="https://omoca.co.ke" target="_blank">OMOCA</a></li>
 
-<li> - Developer of KUMEDICS platform <a href="https://kumedics.co.ke"> KUMEDICS </a> </li>
+<li> - Developer of KUMEDICS platform. <a href="https://kumedics.co.ke" target="_blank">KUMEDICS</a></li>
 
 </ol>
 
