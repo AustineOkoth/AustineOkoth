@@ -5,13 +5,15 @@
 <ol>
 <h4>My Sites</h4>
 
-<li> - Developer of OMOCA platform. <a href="https://omoca.co.ke" target="_blank">OMOCA</a></li>
+<li> - Developer of EKONOVA platform. <a href="https://ekonava.matechlimited.com" target="_blank">EKONAVA</a></li>
 
-<li> - Developer of KUMEDICS platform. <a href="https://kumedics.co.ke" target="_blank">KUMEDICS</a></li>
+<li> - Developer of Luminant Cross platform. <a href="https://luminantcross.matechlimited.com" target="_blank">Luminant Cross</a></li>
+
+<li> - Developer of Victoria Visa consultants. <a href="https://victoriavisaconsultants.com" target="_blank">Luminant Cross</a></li>
 
 </ol>
 
-- 🔭 I’m currently working on **a platform to support creatives** (OMOCA)
+- 🔭 I’m currently working on **an AI Powered sustainability platform to asseses ESMS** (EKONAVA)
 
 - 🌱 I’m currently learning **Cybersecurity (Both Blue and Red Team)**
 
@@ -19,7 +21,7 @@
 
 - 💬 Ask me about **JavaScript, React, Python, Django, Node**
 
-- 📫 How to reach me **austinebizness@gmail.com**
+- 📫 How to reach me **matechlimited@outlook.com**
 
 - 📄 Know about my experiences [https://pdfhost.io/v/6tJ23PaKF_AUSTINE_OKOTH_CV](https://pdfhost.io/v/6tJ23PaKF_AUSTINE_OKOTH_CV)
 
