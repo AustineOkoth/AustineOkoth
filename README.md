@@ -5,9 +5,9 @@
 <ol>
 <h4>My Sites</h4>
   
-<li> - Director at MA Tech Limted. <a href="https://matechlimited.com" target="_blank">MA Tech Limited</a></li>
+<li> - Full Stack Developer  at MA Tech Limted. <a href="https://matechlimited.com" target="_blank">MA Tech Limited</a></li>
 
-<li> - Developer of EKONOVA platform. <a href="https://ekonava.matechlimited.com" target="_blank">EKONAVA</a></li>
+<li> - Lead Developer & Co- Founder of EKONOVA. <a href="https://ekonava.matechlimited.com" target="_blank">EKONAVA</a></li>
 
 <li> - Developer of Luminant Cross platform. <a href="https://luminantcross.matechlimited.com" target="_blank">Luminant Cross</a></li>
 
@@ -16,7 +16,7 @@
 
 </ol>
 
-- 🔭 I’m currently working on **an AI Powered sustainability platform to asseses ESMS** (EKONAVA)
+- 🔭 I’m currently working on **an AI Powered sustainability platform to asseses ESG Due Diligence ** (EKONAVA)
 
 - 🌱 I’m currently learning **Cybersecurity (Both Blue and Red Team)**
 
